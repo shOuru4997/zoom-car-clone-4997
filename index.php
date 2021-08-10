@@ -1,5 +1,5 @@
 <?php
 
-include_once("zoomclone.html");
+include_once("index.html");
 
 ?>
